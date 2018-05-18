@@ -6,3 +6,6 @@ Deep Learning 2017 Winter
 [code and description](./Assignment2)
 ## Assignment #3: Keras CIFAR‐10 Image Classificaon
 [code and description](./Assignment3)
+## Final Project: Image generator with improved architecture in Generative Adversarial Networks
+[project demonstration] (./Project-GAN)
+

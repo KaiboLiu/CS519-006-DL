@@ -285,6 +285,7 @@ Les Demoiselles d'Avignon, 1907, Pablo Picasso
 The Scream, 1893 by Edvard Munch  
 Mona Lisa, 1503 by Leonardo da Vinci  
 
+#### Synthesized samples
 
 |Content|Style|Result|
 |:--:|:--:|:--:|
